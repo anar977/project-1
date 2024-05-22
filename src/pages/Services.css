@@ -1,0 +1,262 @@
+.services {
+    width: 100%;
+    height: 148.6vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-image: url(https://static.wixstatic.com/media/84770f_0cf5b6c1550a4b8c92f92f1064cc68de~mv2.jpg/v1/fill/w_1899,h_624,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/84770f_0cf5b6c1550a4b8c92f92f1064cc68de~mv2.jpg);
+
+}
+
+.services .hr {
+    height: 2px;
+    width: 40px;
+    background-color: black;
+    margin-top: -50px;
+    margin-left: 0px;
+}
+
+.h1edit h1 {
+    font-size: 42px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    letter-spacing: 0.15em;
+    margin-top: 30px;
+
+
+}
+
+.h2edit ul {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    text-align: center;
+    gap: 40px;
+    font-size: 14px;
+    color: rgb(51, 51, 51);
+    letter-spacing: 0.1em;
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    padding-top: 90px;
+    padding-right: 5px;
+}
+.cardss{
+    padding-top: 60px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+.cardss-1{
+    padding-top: 30px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+
+}
+.cardss p{
+    letter-spacing: 0.15em;
+    color: rgb(51, 51, 51);
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 14px;
+
+}
+.cardss-1 p{
+    letter-spacing: 0.15em;
+    color: rgb(51, 51, 51);
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 14px;
+
+}
+.cardd-4{
+    text-align: center;
+    width: 280px;
+    height: 320px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 53px;
+    
+}
+.cardd-5{
+    text-align: center;
+    width: 280px;
+    height: 320px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 53px;
+    
+}
+.cardd-6{
+    text-align: center;
+    width: 280px;
+    height: 320px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 53px;
+
+}
+.cardd-1{
+    text-align: center;
+    width: 280px;
+    height: 320px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 53px;
+    
+}
+.cardd-2{
+    text-align: center;
+    width: 280px;
+    height: 320px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 53px;
+    
+}
+.cardd-3{
+    text-align: center;
+    width: 280px;
+    height: 320px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 45px;
+    
+}
+.cardd-4 h7{
+    color: rgb(51, 51, 51);
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 22px;
+
+}
+.cardd-5 h8{
+    color: rgb(51, 51, 51);
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 22px;
+
+}
+.cardd-6 h9{
+    color: rgb(51, 51, 51);
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 22px;
+
+}
+.cardd-1 h3{
+    color: rgb(51, 51, 51);
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 22px;
+}
+.cardd-2 h4{
+    color: rgb(51, 51, 51);
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 22px;
+}
+.cardd-3 h5{
+    
+    color: rgb(51, 51, 51);
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 22px;
+
+}
+.cardd-1 button{
+    color: white;
+    background-color: black;
+    font: var(--fnt, var(--font_5));
+    padding: 9px 16px;
+    margin: 0 auto;
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 15px;
+    white-space: nowrap;
+    border: 2px solid black;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+.cardd-2 button{
+    color: white;
+    background-color: black;
+    font: var(--fnt, var(--font_5));
+    padding: 9px 16px;
+    margin: 0 auto;
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 15px;
+    white-space: nowrap;
+    border: 2px solid black;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+.cardd-3 button{
+    color: white;
+    background-color: black;
+    font: var(--fnt, var(--font_5));
+    padding: 9px 16px;
+    margin: 0 auto;
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 15px;
+    white-space: nowrap;
+    border: 2px solid black;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+.cardss-1 button{
+    color: white;
+    background-color: black;
+    font: var(--fnt, var(--font_5));
+    padding: 9px 16px;
+    margin: 0 auto;
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 15px;
+    white-space: nowrap;
+    border: 2px solid black;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}

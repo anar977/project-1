@@ -1,0 +1,205 @@
+.plans{
+    width: 100%;
+    height: 142vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-image: url(https://static.wixstatic.com/media/84770f_0cf5b6c1550a4b8c92f92f1064cc68de~mv2.jpg/v1/fill/w_1899,h_624,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/84770f_0cf5b6c1550a4b8c92f92f1064cc68de~mv2.jpg);
+}
+.h-1edit{
+    text-align: center;
+    padding-top: 51px
+}
+.h-1edit h1{
+    font-size: 41px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    letter-spacing: 0.35em;
+    line-height: 2;
+}
+.h-1edit p{
+    
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    letter-spacing: 0.1em;
+    color: rgb(87, 87, 87);
+    font-size: 15px;
+}
+.plans-cards{
+    padding-top: 75px;
+    height: 40%;
+    width: 100%;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 30px;   
+}
+.plans-cards h2{
+    color: rgb(75, 75, 75);
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+
+}
+.plans-card-1{
+    background-color: rgb(255 255 255 / 59%);
+    text-align: center;
+    line-height: 1.5em;
+    width: 300px;
+    height: 320px;
+    border: 1px solid black;
+    border-width: 2px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.plans-card-2{
+    background-color: rgb(255,255,255);
+    text-align: center;
+    line-height: 1.5em;
+    width: 300px;
+    height: 320px;
+    border: 1px solid black;
+    border-width: 2px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.plans-card-3{
+    background-color: rgb(255 255 255 / 59%);
+    text-align: center;
+    line-height: 1.5em;
+    width: 300px;
+    height: 320px;
+    border: 1px solid black;
+    border-width: 2px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.plans span{
+    font-size: 70px;
+}
+.plans span1{
+    padding-right: 100px;
+  
+}
+.plans-card-1 p{
+    font-size: 14px;
+}
+.plans-card-2 p{
+    font-size: 14px;
+}
+.plans-card- p{
+    font-size: 14px;
+}
+.plans-card-1 button{
+    color: white;
+    background-color: black;
+    font: var(--fnt, var(--font_5));
+    padding: 12px 83px;
+    margin-top: 15px;
+    white-space: nowrap;
+    border: 2px solid black;
+   
+}
+.plans-card-2 button{
+    color: white;
+    background-color: black;
+    font: var(--fnt, var(--font_5));
+    padding: 12px 83px;
+    margin-top: 15px;
+    white-space: nowrap;
+    border: 2px solid black;
+   
+}
+.plans-card-3 button{
+    
+    color: white;
+    background-color: black;
+    font: var(--fnt, var(--font_5));
+    padding: 12px 83px;
+    margin-top: 15px;
+    white-space: nowrap;
+    border: 2px solid black;
+}
+.p-c-1{
+    padding-bottom: 160px;
+    background-color: rgb(255,255,255);
+    text-align: center;
+    line-height: 1.5em;
+    width: 300px;
+    height: 320px;
+    border: 1px solid black;
+    border-width: 2px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.p-c-2{
+    background-color: rgb(255 255 255 / 40%);
+    letter-spacing: 0.1em;
+    padding-bottom: 80px;
+    text-align: center;
+    width: 300px;
+    height: 320px;
+    border: 1px solid black;
+    border-width: 2px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+}
+.p-c-3{
+    background-color: rgb(255,255,255);
+    text-align: center;
+    width: 300px;
+    height: 320px;
+    border: 1px solid black;
+    border-width: 2px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.plan-cards{
+    padding-top: 73px;
+    height: 24%;
+    width: 100%;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.plan-cards p{
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    letter-spacing: 0.1em;
+    color: rgb(87, 87, 87);
+    font-size: 13px;
+
+}
+.plans-cards p{
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    
+    color: rgb(87, 87, 87);
+
+}
